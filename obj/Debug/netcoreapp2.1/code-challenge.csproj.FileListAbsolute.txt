@@ -1,0 +1,16 @@
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/appsettings.json
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/resources/EmployeeSeedData.json
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.deps.json
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.runtimeconfig.json
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.runtimeconfig.dev.json
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.dll
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.pdb
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.csprojAssemblyReference.cache
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.AssemblyInfoInputs.cache
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.AssemblyInfo.cs
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.csproj.CoreCompileInputs.cache
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.dll
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.pdb
+/home/patrick/Workspace/Work/coding-interviews/mindex-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.genruntimeconfig.cache
