@@ -53,7 +53,7 @@ namespace challenge.Data
             {
                 
                 if (employee.DirectReports != null)
-                {
+                {                    
                     var referencedEmployees = new List<Employee>(employee.DirectReports.Count);
                     employee.DirectReports.ForEach(report =>
                     {

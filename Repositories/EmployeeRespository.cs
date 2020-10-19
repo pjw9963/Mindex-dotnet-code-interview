@@ -29,6 +29,8 @@ namespace challenge.Repositories
 
         public Employee GetById(string id)
         {
+            var emps = _employeeContext.Employees;
+            foreach (Employee emp in _employeeContext.Employees) {}              
             return _employeeContext.Employees.SingleOrDefault(e => e.EmployeeId == id);
         }
 
